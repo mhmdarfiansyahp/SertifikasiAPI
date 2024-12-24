@@ -214,7 +214,7 @@ namespace SertifikasiAPI.Controllers
 
                 if (!System.IO.File.Exists(filePath))
                 {
-                    return NotFound(); // or handle the case where the file is not found
+                    return NotFound();
                 }
 
                 // Read the file content
