@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SertifikasiAPI", "SertifikasiAPI\SertifikasiAPI.csproj", "{888BE0A7-D911-4F59-9593-8BD0FB7533FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{888BE0A7-D911-4F59-9593-8BD0FB7533FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888BE0A7-D911-4F59-9593-8BD0FB7533FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888BE0A7-D911-4F59-9593-8BD0FB7533FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888BE0A7-D911-4F59-9593-8BD0FB7533FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C343C3F-F3A7-439A-A830-6A16CCF41126}
+	EndGlobalSection
+EndGlobal
